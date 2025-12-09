@@ -21,8 +21,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ImportRuntimeHints;
 
 /**
- * PetClinic Spring Boot Application.
- * FIRST COMMIT
+ * PetClinic Spring Boot Application. FIRST COMMIT
  *
  * @author Dave Syer
  */
